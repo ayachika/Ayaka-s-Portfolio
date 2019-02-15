@@ -12,7 +12,7 @@
 
 .title-content{
   margin-top:100px;
-  padding-bottom:1000px;
+  padding-bottom:400px;
     margin: auto;
     text-align: center;
     width:100%;
