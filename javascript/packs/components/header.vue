@@ -14,8 +14,10 @@
 
 <style scoped>
 
+@media(max-width: 1500px){
 .nav-wrapper{
     display: table;
+    
     margin: auto;
     text-align: center;
     font-family: 'Yeseva One', cursive;
@@ -26,7 +28,7 @@
   display: table-cell;
   
 }
-
+}
 
 
 </style>
